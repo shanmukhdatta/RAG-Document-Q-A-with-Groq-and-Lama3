@@ -1,0 +1,3 @@
+langchain-groq
+streamlit
+langchain_ollama
