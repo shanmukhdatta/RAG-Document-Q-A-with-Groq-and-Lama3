@@ -160,14 +160,4 @@ retriever = st.session_state.vectors.as_retriever()
 - Better error handling and validation
 - Support for OpenAI embeddings as alternative
 
-## License
 
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines]
-
-## Support
-
-[Add contact information or issue reporting guidelines]
